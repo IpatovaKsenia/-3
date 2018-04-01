@@ -1,1 +1,1 @@
-ipatovaki.github.io
+ipatovaki.github.io/
